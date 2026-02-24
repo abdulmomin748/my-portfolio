@@ -1,0 +1,116 @@
+[
+  {
+    "projectId": 1,
+    "projectName": "Green Nest",
+    "liveLink": "https://green-nest-9.web.app/",
+    "Links": [
+      { "client": "" },
+      { "server": "" },
+      { "liveLink": "https://plate-share-ab047.web.app/" }
+    ],
+    "summary": "A responsive plant care and eco-lifestyle SPA featuring secure authentication, protected routes, dynamic data rendering, and a calming minimalist design.",
+    "applicationFetures": [
+      {
+        "Feature": "Firebase authentication (Login, Signup, Google, Forgot Password)"
+      },
+      { "Feature": "Protected routes" },
+      { "Feature": "Dynamic JSON-based listings" },
+      { "Feature": "SPA architecture" },
+      { "Feature": "Responsive UI" }
+    ],
+    "technologiesyUsed": [
+      { "tecnology": "Reactjs" },
+      { "tecnology": "Tailwindcss" },
+      { "tecnology": "Firebase" },
+      { "tecnology": "Express" },
+      { "tecnology": "MongoDB" }
+    ],
+    "imgUrl": [
+      { "imgScreenUrl": "https://i.ibb.co.com/xSPyv0dM/plate-Share-Home.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/Z1FkXMjj/plate-S11.png" }
+    ]
+  },
+  {
+    "projectId": 2,
+    "projectName": "Plate Share",
+    "liveLink": "https://old-books-here.web.app/",
+    "Links": [
+      { "client": "https://github.com/abdulmomin748/plate-share-client" },
+      { "server": "https://github.com/abdulmomin748/plate-share-server" },
+      { "liveLink": "https://plate-share-ab047.web.app/" }
+    ],
+    "summary": "A full-stack MERN food-sharing platform that enables users to donate surplus food, browse community listings, and request items through a secure, responsive single-page application.",
+    "applicationFetures": [
+      {
+        "Feature": "Full-stack MERN architecture" },
+      { "Feature": "User authentication" },
+      { "Feature": "Food donation posting" },
+      { "Feature": "Community food browsing" },
+      { "Feature": "Protected routes" },
+      { "Feature": "SPA routing" },
+      { "Feature": "Responsive UI" },
+      { "Feature": "Food request system" }
+    ],
+    "technologiesyUsed": [
+      { "tecnology": "Reactjs" },
+      { "tecnology": "Tailwindcss" },
+      { "tecnology": "Firebase" },
+      { "tecnology": "Express" },
+      { "tecnology": "MongoDB" },
+      { "tecnology": "Node.js" },
+      { "tecnology": "Javascript" },
+      { "tecnology": "Daisy Ui" }
+    ],
+    "imgUrl": [
+      { "imgScreenUrl": "https://i.ibb.co.com/xSPyv0dM/plate-Share-Home.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/N632c2B2/p-SLogin.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/v45SZVLM/p-SReg.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/Z1FkXMjj/plate-S11.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/0y0r5SkM/plate-Share-Tearms.png" }
+
+
+    ]
+  },
+ {
+    "projectId": 3,
+    "projectName": "Contest Hub",
+    "liveLink": "https://old-books-here.web.app/",
+    "Links": [
+      { "client": "https://github.com/abdulmomin748/plate-share-client" },
+      { "server": "https://github.com/abdulmomin748/plate-share-server" },
+      { "liveLink": "https://plate-share-ab047.web.app/" }
+    ],
+    "summary": "A full-stack contest management platform that enables users to create, explore, and participate in creative contests with secure authentication, role-based access, and a fully responsive modern interface.",
+    "applicationFetures": [
+      {
+        "Feature": "Full-stack MERN architecture" },
+      { "Feature": "User authentication" },
+      { "Feature": "Secure authentication (JWT)" },
+      { "Feature": "Contest creation & management" },
+      { "Feature": "Contest browsing & participation" },
+      { "Feature": "Payment-based contest registration" },
+      { "Feature": "Role-based dashboards" },
+      { "Feature": "Protected routes" },
+      { "Feature": "Winner declaration system" },
+      { "Feature": "Responsive SPA design" }
+    ],
+    "technologiesyUsed": [
+      { "tecnology": "Reactjs" },
+      { "tecnology": "Tailwindcss" },
+      { "tecnology": "Firebase" },
+      { "tecnology": "Express" },
+      { "tecnology": "Stripe" },
+      { "tecnology": "MongoDB" },
+      { "tecnology": "Node.js" },
+      { "tecnology": "Javascript" },
+      { "tecnology": "Daisy Ui" }
+    ],
+    "imgUrl": [
+      { "imgScreenUrl": "https://i.ibb.co.com/pjVCdcQ3/contest-Hub-Home.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/0k7L96F/cb1.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/gLGSHSnq/cb2.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/1f7YY4FQ/cb3.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/k2pz5kfg/cb4.png" }
+    ]
+  }
+]

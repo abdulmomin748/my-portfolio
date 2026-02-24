@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "projectName": "Green Nest",
+    "img": "https://i.ibb.co.com/jZWpghf8/green-Home.png",
+    "liveLink": "https://green-nest-9.web.app/",
+    "description": "A responsive plant care and eco-lifestyle web application featuring secure authentication, protected routes, and dynamic data rendering within a clean, calming single-page interface.",
+    "tags": ["React", "Node.js", "Express.js", "MongoDB"]
+  },
+  {
+    "id": 2,
+    "projectName": "Plate Share",
+    "img": "https://i.ibb.co.com/xSPyv0dM/plate-Share-Home.png",
+    "liveLink": "https://plate-share-ab047.web.app/",
+    "description": "A full-stack MERN food-sharing platform that enables users to donate surplus food, browse community listings, and request items through a secure, responsive single-page application.",
+    "tags": ["React", "Node.js", "Express.js", "MongoDB"]
+  },
+  {
+    "id": 3,
+    "projectName": "Contest Hub",
+    "img": "https://i.ibb.co.com/pjVCdcQ3/contest-Hub-Home.png",
+    "liveLink": "https://contesthub-a3d0d.web.app/",
+    "description": "A full-stack contest management platform that enables users to create, explore, and participate in creative contests with secure authentication, role-based access, and a fully responsive modern interface.",
+    "tags": ["React", "Node.js", "Express.js", "MongoDB"]
+  }
+]
