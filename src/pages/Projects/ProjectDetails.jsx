@@ -38,7 +38,7 @@ const ProjectDetails = () => {
                 Client
               </a>
               {
-               projectItemDetailsData?.server && <a
+               linksObj?.server && <a
                 rel=""
                 target="_blank"
                 className="btn-2 !text-white"
