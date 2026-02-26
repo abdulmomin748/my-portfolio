@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "projectName": "Green Nest",
-    "img": "https://i.ibb.co.com/jZWpghf8/green-Home.png",
-    "liveLink": "https://green-nest-9.web.app/",
-    "description": "A responsive plant care and eco-lifestyle web application featuring secure authentication, protected routes, and dynamic data rendering within a clean, calming single-page interface.",
+    "projectName": "Contest Hub",
+    "img": "https://i.ibb.co.com/pjVCdcQ3/contest-Hub-Home.png",
+    "liveLink": "https://contesthub-a3d0d.web.app/",
+    "description": "A full-stack contest management platform that enables users to create, explore, and participate in creative contests with secure authentication, role-based access, and a fully responsive modern interface.",
     "tags": ["React", "Node.js", "Express.js", "MongoDB"]
   },
   {
@@ -17,10 +17,10 @@
   },
   {
     "id": 3,
-    "projectName": "Contest Hub",
-    "img": "https://i.ibb.co.com/pjVCdcQ3/contest-Hub-Home.png",
-    "liveLink": "https://contesthub-a3d0d.web.app/",
-    "description": "A full-stack contest management platform that enables users to create, explore, and participate in creative contests with secure authentication, role-based access, and a fully responsive modern interface.",
+    "projectName": "Green Nest",
+    "img": "https://i.ibb.co.com/jZWpghf8/green-Home.png",
+    "liveLink": "https://green-nest-9.web.app/",
+    "description": "A Frontend plant care and eco-lifestyle web application featuring secure authentication,responsive , protected routes, and dynamic data rendering within a clean, calming single-page interface.",
     "tags": ["React", "Node.js", "Express.js", "MongoDB"]
   }
 ]

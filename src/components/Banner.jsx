@@ -56,9 +56,7 @@ const Banner = () => {
             </h2>
           </div>
           <p className="text-gray-400 text-base sm:text-lg leading-relaxed max-w-lg border-l-2 border-white/10 pl-4">
-            Junior MERN Stack Developer crafting scalable, secure, and
-            responsive full-stack web applications with the MERN stack—turning
-            ideas into real-world digital solutions.
+            Building scalable, modern web applications with the MERN stack.
           </p>
           <div className="btns-cntlr">
             <div className="bnr-btn-1 bg-primary rounded-xl ">
@@ -79,7 +77,7 @@ const Banner = () => {
                 rel="noreferrer"
                 href="https://www.linkedin.com/in/abmomindev/"
               >
-                Hire Me!
+                Contact Me
               </a>
             </div>
           </div>

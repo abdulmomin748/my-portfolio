@@ -24,7 +24,7 @@ const Projects = () => {
               <ProjectItem key={index} project={project} />
             ))}
           </div>
-          <div className="bnr-btn-1 bg-primary rounded-xl inline-block">
+          <div className="bg-primary rounded-xl inline-block">
             <a
               className="btn-1 rounded-none!"
               type="submit"
