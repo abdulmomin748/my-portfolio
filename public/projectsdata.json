@@ -10,7 +10,7 @@
   {
     "id": 2,
     "projectName": "Plate Share",
-    "img": "https://i.ibb.co.com/xSPyv0dM/plate-Share-Home.png",
+    "img": "https://i.ibb.co.com/zVp3Nd0g/ps-Home.png",
     "liveLink": "https://plate-share-ab047.web.app/",
     "description": "A full-stack MERN food-sharing platform that enables users to donate surplus food, browse community listings, and request items through a secure, responsive single-page application.",
     "tags": ["React", "Node.js", "Express.js", "MongoDB"]

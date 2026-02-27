@@ -117,11 +117,11 @@ const Banner = () => {
         </div>
 
         {/* Image */}
-        <div className="relative w-full max-w-sm md:w-1/2 flex justify-center md:justify-end order-1 md:order-2 animate-fade-in">
+        <div className="relative w-full max-w-sm md:w-1/2 flex justify-center md:justify-end order-1 md:order-2 animate-[fadeIn_1s_ease-out_forwards]">
           {/* FLOAT (runs continuously) */}
-          <div className="relative w-full aspect-[4/5] max-w-[320px] md:max-w-none animate-float">
+          <div className="relative w-full aspect-4/5 max-w-[320px] md:max-w-none ">
             {/* OFFSET BORDER */}
-            <div className="absolute inset-0 border-2 border-primary/30 rounded-2xl translate-x-4 translate-y-4 z-0" />
+            <div className="absolute inset-0 border-2 border-primary/30 rounded-2xl translate-x-4 translate-y-4 z-0 animate-[float_4s_ease-in-out_infinite]" />
 
             {/* IMAGE CARD */}
             <div className="relative z-10 w-full h-full rounded-2xl bg-surface-light overflow-hidden shadow-2xl group">

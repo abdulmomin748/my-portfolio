@@ -76,11 +76,16 @@
       { "tecnology": "JWT" }
     ],
     "imgUrl": [
-      { "imgScreenUrl": "https://i.ibb.co.com/xSPyv0dM/plate-Share-Home.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/zVp3Nd0g/ps-Home.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/Q38bwstx/plate-Share-Available-F.png" },
       { "imgScreenUrl": "https://i.ibb.co.com/N632c2B2/p-SLogin.png" },
       { "imgScreenUrl": "https://i.ibb.co.com/v45SZVLM/p-SReg.png" },
       { "imgScreenUrl": "https://i.ibb.co.com/Z1FkXMjj/plate-S11.png" },
-      { "imgScreenUrl": "https://i.ibb.co.com/0y0r5SkM/plate-Share-Tearms.png" }
+      { "imgScreenUrl": "https://i.ibb.co.com/DPfxTRXs/ps1.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/RkTDDXD0/ps2.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/prLb6yNZ/ps3.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/0y0r5SkM/plate-Share-Tearms.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/Nn6w6WCK/ps-E.png" }
 
     ]
   },
@@ -113,7 +118,8 @@
     "imgUrl": [
       { "imgScreenUrl": "https://i.ibb.co.com/jZWpghf8/green-Home.png" },
       { "imgScreenUrl": "https://i.ibb.co.com/hRQzQ2t0/plate-S2.png" },
-      { "imgScreenUrl": "https://i.ibb.co.com/whH4SZjY/plate-S1.png" }
+      { "imgScreenUrl": "https://i.ibb.co.com/whH4SZjY/plate-S1.png" },
+      { "imgScreenUrl": "https://i.ibb.co.com/W4Rcshcb/gn1.png" }
 
     ]
   }
